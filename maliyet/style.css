@@ -1,0 +1,14 @@
+html{
+    background-color: plum;
+}
+.hesaplar{
+    background-color: pink ;
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.secenekler{
+    display: flex;
+    flex-direction: row;
+}
