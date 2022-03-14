@@ -5,7 +5,7 @@ function myFunction(){
   let b =  ( parseInt( document.querySelectorAll("input")[1].value))/100;
   
   if(document.querySelectorAll(".form-check-input")[0].checked){
-    let c = ((a+b)*5*90+a*b*450);
+    let c = ((a+b)*5*110+a*b*450);
     document.getElementById("sonuc").innerText= c;
    
 };
