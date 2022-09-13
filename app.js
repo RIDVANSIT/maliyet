@@ -9,7 +9,7 @@ function myFunction(){
   let d = (parseInt(document.getElementById("camf").value));
 
   if(document.querySelectorAll(".form-check-input")[0].checked){
-    let t = ((a+b)*4*c+a*b*d);
+    let t = ((a+b)*5*c+a*b*d);
     document.getElementById("sonuc").innerText= t;
    
 };
