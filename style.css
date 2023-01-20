@@ -12,3 +12,12 @@ align-items: center;
     display: flex;
     flex-direction: row;
 }
+h6{
+   
+    background-color: rgb(12, 228, 5) ;
+    display: flex;
+    flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
